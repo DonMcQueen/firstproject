@@ -1,6 +1,6 @@
 # We are going on a camping trip. Here is a list of things that we need.
 
-camping_stuff = "tent, sleeping bags, water. raspberry pi, coffee, knife, ethernet cable, flash drive, beard oil, marshmallows"
+camping_stuff = "tent, sleeping bags, water, raspberry pi, coffee, knife, ethernet cable, flash drive, beard oil, marshmallows"
 
 print(camping_stuff)
 
@@ -19,4 +19,4 @@ you = camping_list[-2]
 print(me)
 print(you)
 
-print(camping_list)
+print(camping_stuff[0])
